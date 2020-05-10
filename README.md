@@ -2,11 +2,6 @@
 
 A dark and gloomy pastel color syntax theme for VS Code. Ported from [@hejrobin's](https://github.com/hejrobin) Atom [gloom](https://github.com/hejrobin/gloom)
 
----
-
-# Changelog
-[CHANGELOG.md](CHANGELOG.md)
-
-___
-### Language &bull; `Javascript`
-![Language: Javascript](screenshots/javascript.png)
+## Screenshots
+![Javascript](screenshots/javascript.png)
+![React](screenshots/react.png)
