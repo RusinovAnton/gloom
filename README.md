@@ -8,8 +8,5 @@ A dark and gloomy pastel color syntax theme for VS Code. Ported from [@hejrobin'
 [CHANGELOG.md](CHANGELOG.md)
 
 ___
-### Language &bull; `Markdown`
-![Language: Markdown](https://raw.githubusercontent.com/agirton/gloom/master/screenshots/markdown.png)
-
 ### Language &bull; `Javascript`
-![Language: Javascript](https://raw.githubusercontent.com/agirton/gloom/master/screenshots/javascript.png)
+![Language: Javascript](screenshots/javascript.png)
